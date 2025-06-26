@@ -1,8 +1,13 @@
-# PCEDNet Training and Prediction Guide
+# IMLPOINTNET
 
-This repository contains tools for training and predicting with PCEDNet models on point cloud data.
+Interactive Machine Learning with compact network, using for classification task on point cloud
 
 ## Training
+You need to save your training object in organized directory:
+path/
+--ply/your.ply
+--lb/your.lb
+--SSM_Challenge-ABC/your.ssm
 
 **Train (remember to change path in train_pcednet.py + scales + descriptor):**
 By default it accept: 
@@ -13,18 +18,10 @@ EPOCHS = 50
 FRACTION = 1 #0.1 (train only 10%) or 1 (train all)
 USE_VALIDATION = False
 
-python /home/cle/Work/ABC-Challenge/ABC-Project/IMLPointNet/train_pcednet.py
-
-The predict file should be save in
-path/
---ply/your.ply
---lb/your.lb
---SSM_Challenge-ABC/your.ssm
-
 ## Prediction
 
 **Predict (remember to choose correct model):**
-python /home/cle/Work/ABC-Challenge/ABC-Project/IMLPointNet/pred_pcednet.py \
+python pred_pcednet.py \
     --model "/home/cle/scan24_IML_pcednet_16s_20f_512b_50e_lr01.h5" \
     --input "/home/cle/data/dtu_results_pc/IML_scan24/SSM_Challenge-ABC/**scan24**.ssm" \
     --output "/home/cle/data/dtu_results_pc/IML_scan24/feedback_**1**.ply" \
