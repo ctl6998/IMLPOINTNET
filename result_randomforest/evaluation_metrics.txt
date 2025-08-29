@@ -1,0 +1,17 @@
+=== Random Forest Edge Classification Results ===
+
+Training Time: 11.16 seconds
+Prediction Time: 1.95 seconds
+Test Samples: 690211
+
+Performance Metrics:
+Accuracy:  0.9912
+Precision: 0.9876
+Recall:    0.8595
+F1-score:  0.9191
+MCC:       0.9170
+IoU:       0.8504
+
+Confusion Matrix:
+[[649691    431]
+ [  5631  34458]]

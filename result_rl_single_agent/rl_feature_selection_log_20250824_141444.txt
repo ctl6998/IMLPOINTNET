@@ -1,0 +1,378 @@
+Loading training data...
+Using 59 files out of 198 (30.0% of dataset)
+Found 59 matching SSM-LB file pairs
+Loading all data into memory for balanced sampling...
+Found 59 files to process
+Added 3475 points to the memory
+Loaded 1001: 3475 annotated points; (excluded 0 non-annotated)
+Loaded 1001: 3475 points
+Added 18827 points to the memory
+Loaded 2435: 18827 annotated points; (excluded 0 non-annotated)
+Loaded 2435: 18827 points
+Added 8117 points to the memory
+Loaded 1611: 8117 annotated points; (excluded 0 non-annotated)
+Loaded 1611: 8117 points
+Added 14604 points to the memory
+Loaded 1840: 14604 annotated points; (excluded 0 non-annotated)
+Loaded 1840: 14604 points
+Added 9144 points to the memory
+Loaded 1751: 9144 annotated points; (excluded 0 non-annotated)
+Loaded 1751: 9144 points
+Added 12789 points to the memory
+Loaded 0746: 12789 annotated points; (excluded 0 non-annotated)
+Loaded 0746: 12789 points
+Added 15410 points to the memory
+Loaded 0513: 15410 annotated points; (excluded 0 non-annotated)
+Loaded 0513: 15410 points
+Added 22256 points to the memory
+Loaded 1173: 22256 annotated points; (excluded 0 non-annotated)
+Loaded 1173: 22256 points
+Added 10978 points to the memory
+Loaded 1761: 10978 annotated points; (excluded 0 non-annotated)
+Loaded 1761: 10978 points
+Added 10196 points to the memory
+Loaded 1226: 10196 annotated points; (excluded 0 non-annotated)
+Loaded 1226: 10196 points
+Added 6734 points to the memory
+Loaded 0189: 6734 annotated points; (excluded 0 non-annotated)
+Loaded 0189: 6734 points
+Added 12747 points to the memory
+Loaded 0654: 12747 annotated points; (excluded 0 non-annotated)
+Loaded 0654: 12747 points
+Added 2750 points to the memory
+Loaded 1608: 2750 annotated points; (excluded 0 non-annotated)
+Loaded 1608: 2750 points
+Added 11288 points to the memory
+Loaded 0233: 11288 annotated points; (excluded 0 non-annotated)
+Loaded 0233: 11288 points
+Added 12802 points to the memory
+Loaded 1627: 12802 annotated points; (excluded 0 non-annotated)
+Loaded 1627: 12802 points
+Added 11286 points to the memory
+Loaded 2690: 11286 annotated points; (excluded 0 non-annotated)
+Loaded 2690: 11286 points
+Added 9075 points to the memory
+Loaded 1739: 9075 annotated points; (excluded 0 non-annotated)
+Loaded 1739: 9075 points
+Added 7018 points to the memory
+Loaded 2714: 7018 annotated points; (excluded 0 non-annotated)
+Loaded 2714: 7018 points
+Added 7735 points to the memory
+Loaded 0871: 7735 annotated points; (excluded 0 non-annotated)
+Loaded 0871: 7735 points
+Added 2117 points to the memory
+Loaded 0683: 2117 annotated points; (excluded 0 non-annotated)
+Loaded 0683: 2117 points
+Added 24479 points to the memory
+Loaded 2719: 24479 annotated points; (excluded 0 non-annotated)
+Loaded 2719: 24479 points
+Added 13135 points to the memory
+Loaded 1811: 13135 annotated points; (excluded 0 non-annotated)
+Loaded 1811: 13135 points
+Added 27459 points to the memory
+Loaded 2138: 27459 annotated points; (excluded 0 non-annotated)
+Loaded 2138: 27459 points
+Added 62982 points to the memory
+Loaded 0310: 62982 annotated points; (excluded 0 non-annotated)
+Loaded 0310: 62982 points
+Added 28824 points to the memory
+Loaded 1369: 28824 annotated points; (excluded 0 non-annotated)
+Loaded 1369: 28824 points
+Added 20788 points to the memory
+Loaded 0686: 20788 annotated points; (excluded 0 non-annotated)
+Loaded 0686: 20788 points
+Added 14519 points to the memory
+Loaded 0124: 14519 annotated points; (excluded 0 non-annotated)
+Loaded 0124: 14519 points
+Added 21671 points to the memory
+Loaded 1374: 21671 annotated points; (excluded 0 non-annotated)
+Loaded 1374: 21671 points
+Added 11926 points to the memory
+Loaded 2430: 11926 annotated points; (excluded 0 non-annotated)
+Loaded 2430: 11926 points
+Added 8911 points to the memory
+Loaded 1231: 8911 annotated points; (excluded 0 non-annotated)
+Loaded 1231: 8911 points
+Added 13924 points to the memory
+Loaded 1058: 13924 annotated points; (excluded 0 non-annotated)
+Loaded 1058: 13924 points
+Added 36558 points to the memory
+Loaded 2609: 36558 annotated points; (excluded 0 non-annotated)
+Loaded 2609: 36558 points
+Added 7572 points to the memory
+Loaded 0299: 7572 annotated points; (excluded 0 non-annotated)
+Loaded 0299: 7572 points
+Added 12208 points to the memory
+Loaded 2358: 12208 annotated points; (excluded 0 non-annotated)
+Loaded 2358: 12208 points
+Added 22756 points to the memory
+Loaded 1418: 22756 annotated points; (excluded 0 non-annotated)
+Loaded 1418: 22756 points
+Added 11109 points to the memory
+Loaded 2744: 11109 annotated points; (excluded 0 non-annotated)
+Loaded 2744: 11109 points
+Added 7930 points to the memory
+Loaded 2492: 7930 annotated points; (excluded 0 non-annotated)
+Loaded 2492: 7930 points
+Added 11926 points to the memory
+Loaded 0048: 11926 annotated points; (excluded 0 non-annotated)
+Loaded 0048: 11926 points
+Added 20100 points to the memory
+Loaded 1675: 20100 annotated points; (excluded 0 non-annotated)
+Loaded 1675: 20100 points
+Added 24817 points to the memory
+Loaded 1536: 24817 annotated points; (excluded 0 non-annotated)
+Loaded 1536: 24817 points
+Added 19817 points to the memory
+Loaded 1955: 19817 annotated points; (excluded 0 non-annotated)
+Loaded 1955: 19817 points
+Added 12687 points to the memory
+Loaded 0230: 12687 annotated points; (excluded 0 non-annotated)
+Loaded 0230: 12687 points
+Added 21367 points to the memory
+Loaded 1903: 21367 annotated points; (excluded 0 non-annotated)
+Loaded 1903: 21367 points
+Added 13751 points to the memory
+Loaded 1841: 13751 annotated points; (excluded 0 non-annotated)
+Loaded 1841: 13751 points
+Added 7578 points to the memory
+Loaded 2776: 7578 annotated points; (excluded 0 non-annotated)
+Loaded 2776: 7578 points
+Added 14864 points to the memory
+Loaded 0550: 14864 annotated points; (excluded 0 non-annotated)
+Loaded 0550: 14864 points
+Added 10425 points to the memory
+Loaded 2771: 10425 annotated points; (excluded 0 non-annotated)
+Loaded 2771: 10425 points
+Added 13205 points to the memory
+Loaded 1607: 13205 annotated points; (excluded 0 non-annotated)
+Loaded 1607: 13205 points
+Added 9989 points to the memory
+Loaded 0688: 9989 annotated points; (excluded 0 non-annotated)
+Loaded 0688: 9989 points
+Added 26487 points to the memory
+Loaded 0959: 26487 annotated points; (excluded 0 non-annotated)
+Loaded 0959: 26487 points
+Added 17529 points to the memory
+Loaded 2135: 17529 annotated points; (excluded 0 non-annotated)
+Loaded 2135: 17529 points
+Added 10931 points to the memory
+Loaded 2517: 10931 annotated points; (excluded 0 non-annotated)
+Loaded 2517: 10931 points
+Added 8134 points to the memory
+Loaded 1413: 8134 annotated points; (excluded 0 non-annotated)
+Loaded 1413: 8134 points
+Added 23645 points to the memory
+Loaded 1729: 23645 annotated points; (excluded 0 non-annotated)
+Loaded 1729: 23645 points
+Added 9556 points to the memory
+Loaded 1744: 9556 annotated points; (excluded 0 non-annotated)
+Loaded 1744: 9556 points
+Added 22410 points to the memory
+Loaded 0392: 22410 annotated points; (excluded 0 non-annotated)
+Loaded 0392: 22410 points
+Added 4489 points to the memory
+Loaded 1361: 4489 annotated points; (excluded 0 non-annotated)
+Loaded 1361: 4489 points
+Added 5419 points to the memory
+Loaded 2082: 5419 annotated points; (excluded 0 non-annotated)
+Loaded 2082: 5419 points
+Added 13639 points to the memory
+Loaded 2596: 13639 annotated points; (excluded 0 non-annotated)
+Loaded 2596: 13639 points
+
+=== Data Loading Summary ===
+Total points in dataset: 878864
+Non-annotated points (excluded): 0
+Annotated points (kept for training): 878864
+Filtering ratio: 100.00%
+
+=== Class Distribution ===
+Class 0 (non-edge): 824537 points (93.82%)
+Class 1 (edge): 54327 points (6.18%)
+== Preparing balanced points... ==
+Class 0: 824537 points
+Class 1: 54327 points
+Maximum class size: 824537
+Class 0: replicated to 824537 points
+Class 1: replicated to 824537 points
+Total balanced pool size: 1649074
+== Finish Preparing balanced points... ==
+Found 50 matching SSM-LB file pairs
+Loading all data into memory for balanced sampling...
+Found 50 files to process
+Added 18826 points to the memory
+Loaded 2139: 18826 annotated points; (excluded 0 non-annotated)
+Loaded 2139: 18826 points
+Added 16623 points to the memory
+Loaded 1155: 16623 annotated points; (excluded 0 non-annotated)
+Loaded 1155: 16623 points
+Added 16137 points to the memory
+Loaded 0994: 16137 annotated points; (excluded 0 non-annotated)
+Loaded 0994: 16137 points
+Added 10499 points to the memory
+Loaded 1884: 10499 annotated points; (excluded 0 non-annotated)
+Loaded 1884: 10499 points
+Added 19659 points to the memory
+Loaded 1051: 19659 annotated points; (excluded 0 non-annotated)
+Loaded 1051: 19659 points
+Added 22574 points to the memory
+Loaded 2465: 22574 annotated points; (excluded 0 non-annotated)
+Loaded 2465: 22574 points
+Added 1555 points to the memory
+Loaded 2117: 1555 annotated points; (excluded 0 non-annotated)
+Loaded 2117: 1555 points
+Added 16478 points to the memory
+Loaded 1957: 16478 annotated points; (excluded 0 non-annotated)
+Loaded 1957: 16478 points
+Added 20205 points to the memory
+Loaded 2431: 20205 annotated points; (excluded 0 non-annotated)
+Loaded 2431: 20205 points
+Added 22028 points to the memory
+Loaded 2248: 22028 annotated points; (excluded 0 non-annotated)
+Loaded 2248: 22028 points
+Added 11879 points to the memory
+Loaded 0576: 11879 annotated points; (excluded 0 non-annotated)
+Loaded 0576: 11879 points
+Added 15903 points to the memory
+Loaded 0277: 15903 annotated points; (excluded 0 non-annotated)
+Loaded 0277: 15903 points
+Added 16339 points to the memory
+Loaded 2038: 16339 annotated points; (excluded 0 non-annotated)
+Loaded 2038: 16339 points
+Added 8263 points to the memory
+Loaded 1402: 8263 annotated points; (excluded 0 non-annotated)
+Loaded 1402: 8263 points
+Added 8242 points to the memory
+Loaded 1534: 8242 annotated points; (excluded 0 non-annotated)
+Loaded 1534: 8242 points
+Added 10371 points to the memory
+Loaded 0844: 10371 annotated points; (excluded 0 non-annotated)
+Loaded 0844: 10371 points
+Added 7601 points to the memory
+Loaded 1384: 7601 annotated points; (excluded 0 non-annotated)
+Loaded 1384: 7601 points
+Added 1798 points to the memory
+Loaded 1612: 1798 annotated points; (excluded 0 non-annotated)
+Loaded 1612: 1798 points
+Added 5238 points to the memory
+Loaded 1672: 5238 annotated points; (excluded 0 non-annotated)
+Loaded 1672: 5238 points
+Added 2327 points to the memory
+Loaded 1258: 2327 annotated points; (excluded 0 non-annotated)
+Loaded 1258: 2327 points
+Added 10681 points to the memory
+Loaded 0402: 10681 annotated points; (excluded 0 non-annotated)
+Loaded 0402: 10681 points
+Added 8263 points to the memory
+Loaded 2572: 8263 annotated points; (excluded 0 non-annotated)
+Loaded 2572: 8263 points
+Added 24817 points to the memory
+Loaded 0667: 24817 annotated points; (excluded 0 non-annotated)
+Loaded 0667: 24817 points
+Added 11949 points to the memory
+Loaded 2703: 11949 annotated points; (excluded 0 non-annotated)
+Loaded 2703: 11949 points
+Added 6738 points to the memory
+Loaded 2192: 6738 annotated points; (excluded 0 non-annotated)
+Loaded 2192: 6738 points
+Added 34340 points to the memory
+Loaded 0353: 34340 annotated points; (excluded 0 non-annotated)
+Loaded 0353: 34340 points
+Added 1950 points to the memory
+Loaded 0939: 1950 annotated points; (excluded 0 non-annotated)
+Loaded 0939: 1950 points
+Added 16446 points to the memory
+Loaded 0643: 16446 annotated points; (excluded 0 non-annotated)
+Loaded 0643: 16446 points
+Added 17117 points to the memory
+Loaded 1813: 17117 annotated points; (excluded 0 non-annotated)
+Loaded 1813: 17117 points
+Added 17431 points to the memory
+Loaded 1937: 17431 annotated points; (excluded 0 non-annotated)
+Loaded 1937: 17431 points
+Added 5520 points to the memory
+Loaded 0198: 5520 annotated points; (excluded 0 non-annotated)
+Loaded 0198: 5520 points
+Added 23925 points to the memory
+Loaded 2775: 23925 annotated points; (excluded 0 non-annotated)
+Loaded 2775: 23925 points
+Added 9086 points to the memory
+Loaded 0487: 9086 annotated points; (excluded 0 non-annotated)
+Loaded 0487: 9086 points
+Added 27164 points to the memory
+Loaded 1716: 27164 annotated points; (excluded 0 non-annotated)
+Loaded 1716: 27164 points
+Added 13974 points to the memory
+Loaded 1323: 13974 annotated points; (excluded 0 non-annotated)
+Loaded 1323: 13974 points
+Added 27323 points to the memory
+Loaded 1217: 27323 annotated points; (excluded 0 non-annotated)
+Loaded 1217: 27323 points
+Added 8124 points to the memory
+Loaded 2337: 8124 annotated points; (excluded 0 non-annotated)
+Loaded 2337: 8124 points
+Added 1004 points to the memory
+Loaded 0713: 1004 annotated points; (excluded 0 non-annotated)
+Loaded 0713: 1004 points
+Added 18663 points to the memory
+Loaded 2667: 18663 annotated points; (excluded 0 non-annotated)
+Loaded 2667: 18663 points
+Added 4867 points to the memory
+Loaded 2738: 4867 annotated points; (excluded 0 non-annotated)
+Loaded 2738: 4867 points
+Added 12716 points to the memory
+Loaded 0091: 12716 annotated points; (excluded 0 non-annotated)
+Loaded 0091: 12716 points
+Added 9583 points to the memory
+Loaded 2392: 9583 annotated points; (excluded 0 non-annotated)
+Loaded 2392: 9583 points
+Added 25136 points to the memory
+Loaded 2507: 25136 annotated points; (excluded 0 non-annotated)
+Loaded 2507: 25136 points
+Added 1950 points to the memory
+Loaded 1594: 1950 annotated points; (excluded 0 non-annotated)
+Loaded 1594: 1950 points
+Added 29317 points to the memory
+Loaded 1743: 29317 annotated points; (excluded 0 non-annotated)
+Loaded 1743: 29317 points
+Added 12841 points to the memory
+Loaded 0541: 12841 annotated points; (excluded 0 non-annotated)
+Loaded 0541: 12841 points
+Added 1454 points to the memory
+Loaded 1106: 1454 annotated points; (excluded 0 non-annotated)
+Loaded 1106: 1454 points
+Added 26287 points to the memory
+Loaded 0008: 26287 annotated points; (excluded 0 non-annotated)
+Loaded 0008: 26287 points
+Added 22419 points to the memory
+Loaded 1433: 22419 annotated points; (excluded 0 non-annotated)
+Loaded 1433: 22419 points
+Added 6581 points to the memory
+Loaded 0138: 6581 annotated points; (excluded 0 non-annotated)
+Loaded 0138: 6581 points
+
+=== Data Loading Summary ===
+Total points in dataset: 690211
+Non-annotated points (excluded): 0
+Annotated points (kept for training): 690211
+Filtering ratio: 100.00%
+
+=== Class Distribution ===
+Class 0 (non-edge): 650122 points (94.19%)
+Class 1 (edge): 40089 points (5.81%)
+Training data shape: (1650688, 320)
+Validation data shape: (692224, 320)
+Training labels distribution: [825344 825344]
+Grouping features by descriptors...
+After grouping - Training data shape: (1650688, 20)
+After grouping - Validation data shape: (692224, 20)
+Starting RL training...
+============================================================
+
+--- Episode 1/50 ---
+Starting with empty feature set...
+Initial state shape: (49,)
+Step 0: 21 valid actions, 0 features selected
+  Action chosen: ADD descriptor 2
+  Calculating reward for 1 descriptors...

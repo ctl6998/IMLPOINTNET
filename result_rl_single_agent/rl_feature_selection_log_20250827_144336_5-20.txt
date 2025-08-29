@@ -1,0 +1,829 @@
+Loading training data...
+Using 19 files out of 198 (10.0% of dataset)
+Found 19 matching SSM-LB file pairs
+Loading all data into memory for balanced sampling...
+Found 19 files to process
+Added 3475 points to the memory
+Loaded 1001: 3475 annotated points; (excluded 0 non-annotated)
+Loaded 1001: 3475 points
+Added 18827 points to the memory
+Loaded 2435: 18827 annotated points; (excluded 0 non-annotated)
+Loaded 2435: 18827 points
+Added 8117 points to the memory
+Loaded 1611: 8117 annotated points; (excluded 0 non-annotated)
+Loaded 1611: 8117 points
+Added 14604 points to the memory
+Loaded 1840: 14604 annotated points; (excluded 0 non-annotated)
+Loaded 1840: 14604 points
+Added 9144 points to the memory
+Loaded 1751: 9144 annotated points; (excluded 0 non-annotated)
+Loaded 1751: 9144 points
+Added 12789 points to the memory
+Loaded 0746: 12789 annotated points; (excluded 0 non-annotated)
+Loaded 0746: 12789 points
+Added 15410 points to the memory
+Loaded 0513: 15410 annotated points; (excluded 0 non-annotated)
+Loaded 0513: 15410 points
+Added 22256 points to the memory
+Loaded 1173: 22256 annotated points; (excluded 0 non-annotated)
+Loaded 1173: 22256 points
+Added 10978 points to the memory
+Loaded 1761: 10978 annotated points; (excluded 0 non-annotated)
+Loaded 1761: 10978 points
+Added 10196 points to the memory
+Loaded 1226: 10196 annotated points; (excluded 0 non-annotated)
+Loaded 1226: 10196 points
+Added 6734 points to the memory
+Loaded 0189: 6734 annotated points; (excluded 0 non-annotated)
+Loaded 0189: 6734 points
+Added 12747 points to the memory
+Loaded 0654: 12747 annotated points; (excluded 0 non-annotated)
+Loaded 0654: 12747 points
+Added 2750 points to the memory
+Loaded 1608: 2750 annotated points; (excluded 0 non-annotated)
+Loaded 1608: 2750 points
+Added 11288 points to the memory
+Loaded 0233: 11288 annotated points; (excluded 0 non-annotated)
+Loaded 0233: 11288 points
+Added 12802 points to the memory
+Loaded 1627: 12802 annotated points; (excluded 0 non-annotated)
+Loaded 1627: 12802 points
+Added 11286 points to the memory
+Loaded 2690: 11286 annotated points; (excluded 0 non-annotated)
+Loaded 2690: 11286 points
+Added 9075 points to the memory
+Loaded 1739: 9075 annotated points; (excluded 0 non-annotated)
+Loaded 1739: 9075 points
+Added 7018 points to the memory
+Loaded 2714: 7018 annotated points; (excluded 0 non-annotated)
+Loaded 2714: 7018 points
+Added 7735 points to the memory
+Loaded 0871: 7735 annotated points; (excluded 0 non-annotated)
+Loaded 0871: 7735 points
+
+=== Data Loading Summary ===
+Total points in dataset: 207231
+Non-annotated points (excluded): 0
+Annotated points (kept for training): 207231
+Filtering ratio: 100.00%
+
+=== Class Distribution ===
+Class 0 (non-edge): 194659 points (93.93%)
+Class 1 (edge): 12572 points (6.07%)
+== Preparing balanced points... ==
+Class 0: 194659 points
+Class 1: 12572 points
+Maximum class size: 194659
+Class 0: replicated to 194659 points
+Class 1: replicated to 194659 points
+Total balanced pool size: 389318
+== Finish Preparing balanced points... ==
+Found 50 matching SSM-LB file pairs
+Loading all data into memory for balanced sampling...
+Found 50 files to process
+Added 18826 points to the memory
+Loaded 2139: 18826 annotated points; (excluded 0 non-annotated)
+Loaded 2139: 18826 points
+Added 16623 points to the memory
+Loaded 1155: 16623 annotated points; (excluded 0 non-annotated)
+Loaded 1155: 16623 points
+Added 16137 points to the memory
+Loaded 0994: 16137 annotated points; (excluded 0 non-annotated)
+Loaded 0994: 16137 points
+Added 10499 points to the memory
+Loaded 1884: 10499 annotated points; (excluded 0 non-annotated)
+Loaded 1884: 10499 points
+Added 19659 points to the memory
+Loaded 1051: 19659 annotated points; (excluded 0 non-annotated)
+Loaded 1051: 19659 points
+Added 22574 points to the memory
+Loaded 2465: 22574 annotated points; (excluded 0 non-annotated)
+Loaded 2465: 22574 points
+Added 1555 points to the memory
+Loaded 2117: 1555 annotated points; (excluded 0 non-annotated)
+Loaded 2117: 1555 points
+Added 16478 points to the memory
+Loaded 1957: 16478 annotated points; (excluded 0 non-annotated)
+Loaded 1957: 16478 points
+Added 20205 points to the memory
+Loaded 2431: 20205 annotated points; (excluded 0 non-annotated)
+Loaded 2431: 20205 points
+Added 22028 points to the memory
+Loaded 2248: 22028 annotated points; (excluded 0 non-annotated)
+Loaded 2248: 22028 points
+Added 11879 points to the memory
+Loaded 0576: 11879 annotated points; (excluded 0 non-annotated)
+Loaded 0576: 11879 points
+Added 15903 points to the memory
+Loaded 0277: 15903 annotated points; (excluded 0 non-annotated)
+Loaded 0277: 15903 points
+Added 16339 points to the memory
+Loaded 2038: 16339 annotated points; (excluded 0 non-annotated)
+Loaded 2038: 16339 points
+Added 8263 points to the memory
+Loaded 1402: 8263 annotated points; (excluded 0 non-annotated)
+Loaded 1402: 8263 points
+Added 8242 points to the memory
+Loaded 1534: 8242 annotated points; (excluded 0 non-annotated)
+Loaded 1534: 8242 points
+Added 10371 points to the memory
+Loaded 0844: 10371 annotated points; (excluded 0 non-annotated)
+Loaded 0844: 10371 points
+Added 7601 points to the memory
+Loaded 1384: 7601 annotated points; (excluded 0 non-annotated)
+Loaded 1384: 7601 points
+Added 1798 points to the memory
+Loaded 1612: 1798 annotated points; (excluded 0 non-annotated)
+Loaded 1612: 1798 points
+Added 5238 points to the memory
+Loaded 1672: 5238 annotated points; (excluded 0 non-annotated)
+Loaded 1672: 5238 points
+Added 2327 points to the memory
+Loaded 1258: 2327 annotated points; (excluded 0 non-annotated)
+Loaded 1258: 2327 points
+Added 10681 points to the memory
+Loaded 0402: 10681 annotated points; (excluded 0 non-annotated)
+Loaded 0402: 10681 points
+Added 8263 points to the memory
+Loaded 2572: 8263 annotated points; (excluded 0 non-annotated)
+Loaded 2572: 8263 points
+Added 24817 points to the memory
+Loaded 0667: 24817 annotated points; (excluded 0 non-annotated)
+Loaded 0667: 24817 points
+Added 11949 points to the memory
+Loaded 2703: 11949 annotated points; (excluded 0 non-annotated)
+Loaded 2703: 11949 points
+Added 6738 points to the memory
+Loaded 2192: 6738 annotated points; (excluded 0 non-annotated)
+Loaded 2192: 6738 points
+Added 34340 points to the memory
+Loaded 0353: 34340 annotated points; (excluded 0 non-annotated)
+Loaded 0353: 34340 points
+Added 1950 points to the memory
+Loaded 0939: 1950 annotated points; (excluded 0 non-annotated)
+Loaded 0939: 1950 points
+Added 16446 points to the memory
+Loaded 0643: 16446 annotated points; (excluded 0 non-annotated)
+Loaded 0643: 16446 points
+Added 17117 points to the memory
+Loaded 1813: 17117 annotated points; (excluded 0 non-annotated)
+Loaded 1813: 17117 points
+Added 17431 points to the memory
+Loaded 1937: 17431 annotated points; (excluded 0 non-annotated)
+Loaded 1937: 17431 points
+Added 5520 points to the memory
+Loaded 0198: 5520 annotated points; (excluded 0 non-annotated)
+Loaded 0198: 5520 points
+Added 23925 points to the memory
+Loaded 2775: 23925 annotated points; (excluded 0 non-annotated)
+Loaded 2775: 23925 points
+Added 9086 points to the memory
+Loaded 0487: 9086 annotated points; (excluded 0 non-annotated)
+Loaded 0487: 9086 points
+Added 27164 points to the memory
+Loaded 1716: 27164 annotated points; (excluded 0 non-annotated)
+Loaded 1716: 27164 points
+Added 13974 points to the memory
+Loaded 1323: 13974 annotated points; (excluded 0 non-annotated)
+Loaded 1323: 13974 points
+Added 27323 points to the memory
+Loaded 1217: 27323 annotated points; (excluded 0 non-annotated)
+Loaded 1217: 27323 points
+Added 8124 points to the memory
+Loaded 2337: 8124 annotated points; (excluded 0 non-annotated)
+Loaded 2337: 8124 points
+Added 1004 points to the memory
+Loaded 0713: 1004 annotated points; (excluded 0 non-annotated)
+Loaded 0713: 1004 points
+Added 18663 points to the memory
+Loaded 2667: 18663 annotated points; (excluded 0 non-annotated)
+Loaded 2667: 18663 points
+Added 4867 points to the memory
+Loaded 2738: 4867 annotated points; (excluded 0 non-annotated)
+Loaded 2738: 4867 points
+Added 12716 points to the memory
+Loaded 0091: 12716 annotated points; (excluded 0 non-annotated)
+Loaded 0091: 12716 points
+Added 9583 points to the memory
+Loaded 2392: 9583 annotated points; (excluded 0 non-annotated)
+Loaded 2392: 9583 points
+Added 25136 points to the memory
+Loaded 2507: 25136 annotated points; (excluded 0 non-annotated)
+Loaded 2507: 25136 points
+Added 1950 points to the memory
+Loaded 1594: 1950 annotated points; (excluded 0 non-annotated)
+Loaded 1594: 1950 points
+Added 29317 points to the memory
+Loaded 1743: 29317 annotated points; (excluded 0 non-annotated)
+Loaded 1743: 29317 points
+Added 12841 points to the memory
+Loaded 0541: 12841 annotated points; (excluded 0 non-annotated)
+Loaded 0541: 12841 points
+Added 1454 points to the memory
+Loaded 1106: 1454 annotated points; (excluded 0 non-annotated)
+Loaded 1106: 1454 points
+Added 26287 points to the memory
+Loaded 0008: 26287 annotated points; (excluded 0 non-annotated)
+Loaded 0008: 26287 points
+Added 22419 points to the memory
+Loaded 1433: 22419 annotated points; (excluded 0 non-annotated)
+Loaded 1433: 22419 points
+Added 6581 points to the memory
+Loaded 0138: 6581 annotated points; (excluded 0 non-annotated)
+Loaded 0138: 6581 points
+
+=== Data Loading Summary ===
+Total points in dataset: 690211
+Non-annotated points (excluded): 0
+Annotated points (kept for training): 690211
+Filtering ratio: 100.00%
+
+=== Class Distribution ===
+Class 0 (non-edge): 650122 points (94.19%)
+Class 1 (edge): 40089 points (5.81%)
+Training data shape: (391168, 320)
+Validation data shape: (692224, 320)
+Training labels distribution: [195584 195584]
+Grouping features by descriptors...
+After grouping - Training data shape: (391168, 20)
+After grouping - Validation data shape: (692224, 20)
+Starting RL training...
+============================================================
+
+--- Episode 1/5 ---
+Episode 1 - Epsilon: 1.000 (100.0% random, 0.0% DQN)
+Starting with empty feature set...
+Initial state shape: (49,)
+Step 0: Currently selected descriptors: None
+  Action chosen: ADD descriptor 19
+  New selection: [19]
+  Calculating reward for descriptors: [19]
+Accuracy: 0.9096, Relevance: 0.5954, Redundancy: 0.0000
+  Total reward: 1.5051, Per descriptor: 1.5051
+Step 1: Currently selected descriptors: [19]
+  Action chosen: ADD descriptor 1
+  New selection: [1, 19]
+  Calculating reward for descriptors: [1, 19]
+Accuracy: 0.9174, Relevance: 0.5971, Redundancy: 1.5244
+  Total reward: 1.3621, Per descriptor: 0.6810
+Step 2: Currently selected descriptors: [1, 19]
+  Action chosen: ADD descriptor 15
+  New selection: [1, 15, 19]
+  Calculating reward for descriptors: [1, 15, 19]
+Accuracy: 0.9555, Relevance: 0.6016, Redundancy: 1.9525
+  Total reward: 1.3619, Per descriptor: 0.4540
+Step 3: Currently selected descriptors: [1, 15, 19]
+  Action chosen: ADD descriptor 17
+  New selection: [1, 15, 17, 19]
+  Calculating reward for descriptors: [1, 15, 17, 19]
+Accuracy: 0.9762, Relevance: 0.6122, Redundancy: 2.2488
+  Total reward: 1.3635, Per descriptor: 0.3409
+Step 4: Currently selected descriptors: [1, 15, 17, 19]
+  Action chosen: ADD descriptor 18
+  New selection: [1, 15, 17, 18, 19]
+  Calculating reward for descriptors: [1, 15, 17, 18, 19]
+Accuracy: 0.9791, Relevance: 0.6149, Redundancy: 2.4229
+  Total reward: 1.3516, Per descriptor: 0.2703
+Step 5: Currently selected descriptors: [1, 15, 17, 18, 19]
+  Action chosen: STOP
+  Agent chose to STOP
+  Updated target network weights
+  NEW BEST! Reward: 6.9441 with 5 descriptors
+Episode 1 Summary:
+  Total reward: 6.9441
+  Steps taken: 5
+  Final descriptors: 5
+  Epsilon: 1.000 (100.0% random, 0.0% DQN)
+  Avg last 10 episodes: 6.9441
+  Best so far: 6.9441 (5 descriptors)
+
+--- Episode 2/5 ---
+Episode 2 - Epsilon: 0.775 (77.5% random, 22.5% DQN)
+Starting with empty feature set...
+Initial state shape: (49,)
+Step 0: Currently selected descriptors: None
+  Action chosen: ADD descriptor 11
+  New selection: [11]
+  Calculating reward for descriptors: [11]
+Accuracy: 0.8987, Relevance: 0.6048, Redundancy: 0.0000
+  Total reward: 1.5035, Per descriptor: 1.5035
+Step 1: Currently selected descriptors: [11]
+  Action chosen: ADD descriptor 16
+  New selection: [11, 16]
+  Calculating reward for descriptors: [11, 16]
+Accuracy: 0.9848, Relevance: 0.6248, Redundancy: 1.7228
+  Total reward: 1.4373, Per descriptor: 0.7187
+Step 2: Currently selected descriptors: [11, 16]
+  Action chosen: ADD descriptor 5
+  New selection: [5, 11, 16]
+  Calculating reward for descriptors: [5, 11, 16]
+Accuracy: 0.9854, Relevance: 0.6126, Redundancy: 2.0403
+  Total reward: 1.3940, Per descriptor: 0.4647
+Step 3: Currently selected descriptors: [5, 11, 16]
+  Action chosen: REMOVE descriptor 11
+  New selection: [5, 16]
+  Calculating reward for descriptors: [5, 16]
+Accuracy: 0.9592, Relevance: 0.6165, Redundancy: 1.4380
+  Total reward: 1.4319, Per descriptor: 0.7159
+Step 4: Currently selected descriptors: [5, 16]
+  Action chosen: ADD descriptor 9
+  New selection: [5, 9, 16]
+  Calculating reward for descriptors: [5, 9, 16]
+Accuracy: 0.9473, Relevance: 0.6134, Redundancy: 1.9443
+  Total reward: 1.3663, Per descriptor: 0.4554
+Step 5: Currently selected descriptors: [5, 9, 16]
+  Action chosen: ADD descriptor 17
+  New selection: [5, 9, 16, 17]
+  Calculating reward for descriptors: [5, 9, 16, 17]
+Accuracy: 0.9797, Relevance: 0.6211, Redundancy: 2.2253
+  Total reward: 1.3783, Per descriptor: 0.3446
+Step 6: Currently selected descriptors: [5, 9, 16, 17]
+  Action chosen: ADD descriptor 4
+  New selection: [4, 5, 9, 16, 17]
+  Calculating reward for descriptors: [4, 5, 9, 16, 17]
+Accuracy: 0.9826, Relevance: 0.6124, Redundancy: 2.3848
+  Total reward: 1.3565, Per descriptor: 0.2713
+Step 7: Currently selected descriptors: [4, 5, 9, 16, 17]
+  Action chosen: REMOVE descriptor 16
+  New selection: [4, 5, 9, 17]
+  Calculating reward for descriptors: [4, 5, 9, 17]
+Accuracy: 0.9595, Relevance: 0.6042, Redundancy: 2.2780
+  Total reward: 1.3359, Per descriptor: 0.3340
+Step 8: Currently selected descriptors: [4, 5, 9, 17]
+  Action chosen: ADD descriptor 19
+  New selection: [4, 5, 9, 17, 19]
+  Calculating reward for descriptors: [4, 5, 9, 17, 19]
+Accuracy: 0.9679, Relevance: 0.6025, Redundancy: 2.4190
+  Total reward: 1.3285, Per descriptor: 0.2657
+Step 9: Currently selected descriptors: [4, 5, 9, 17, 19]
+  Action chosen: REMOVE descriptor 19
+  New selection: [4, 5, 9, 17]
+  Calculating reward for descriptors: [4, 5, 9, 17]
+Accuracy: 0.9595, Relevance: 0.6042, Redundancy: 2.2780
+  Total reward: 1.3359, Per descriptor: 0.3340
+Step 10: Currently selected descriptors: [4, 5, 9, 17]
+  Action chosen: ADD descriptor 8
+  New selection: [4, 5, 8, 9, 17]
+  Calculating reward for descriptors: [4, 5, 8, 9, 17]
+Accuracy: 0.9613, Relevance: 0.5929, Redundancy: 2.4402
+  Total reward: 1.3102, Per descriptor: 0.2620
+Step 11: Currently selected descriptors: [4, 5, 8, 9, 17]
+  Action chosen: ADD descriptor 7
+  New selection: [4, 5, 7, 8, 9, 17]
+  Calculating reward for descriptors: [4, 5, 7, 8, 9, 17]
+Accuracy: 0.9776, Relevance: 0.5949, Redundancy: 2.4935
+  Total reward: 1.3231, Per descriptor: 0.2205
+Step 12: Currently selected descriptors: [4, 5, 7, 8, 9, 17]
+  Action chosen: STOP
+  Agent chose to STOP
+  NEW BEST! Reward: 16.5014 with 6 descriptors
+Episode 2 Summary:
+  Total reward: 16.5014
+  Steps taken: 12
+  Final descriptors: 6
+  Epsilon: 0.775 (77.5% random, 22.5% DQN)
+  Avg last 10 episodes: 11.7228
+  Best so far: 16.5014 (6 descriptors)
+
+--- Episode 3/5 ---
+Episode 3 - Epsilon: 0.550 (55.0% random, 45.0% DQN)
+Starting with empty feature set...
+Initial state shape: (49,)
+Step 0: Currently selected descriptors: None
+  Action chosen: ADD descriptor 0
+  New selection: [0]
+  Calculating reward for descriptors: [0]
+Accuracy: 0.9757, Relevance: 0.6847, Redundancy: 0.0000
+  Total reward: 1.6604, Per descriptor: 1.6604
+Step 1: Currently selected descriptors: [0]
+  Action chosen: ADD descriptor 15
+  New selection: [0, 15]
+  Calculating reward for descriptors: [0, 15]
+Accuracy: 0.9796, Relevance: 0.6476, Redundancy: 1.4551
+  Total reward: 1.4817, Per descriptor: 0.7409
+Step 2: Currently selected descriptors: [0, 15]
+  Action chosen: ADD descriptor 17
+  New selection: [0, 15, 17]
+  Calculating reward for descriptors: [0, 15, 17]
+Accuracy: 0.9875, Relevance: 0.6465, Redundancy: 2.0039
+  Total reward: 1.4336, Per descriptor: 0.4779
+Step 3: Currently selected descriptors: [0, 15, 17]
+  Action chosen: ADD descriptor 1
+  New selection: [0, 1, 15, 17]
+  Calculating reward for descriptors: [0, 1, 15, 17]
+Accuracy: 0.9890, Relevance: 0.6345, Redundancy: 2.2877
+  Total reward: 1.3948, Per descriptor: 0.3487
+Step 4: Currently selected descriptors: [0, 1, 15, 17]
+  Action chosen: ADD descriptor 13
+  New selection: [0, 1, 13, 15, 17]
+  Calculating reward for descriptors: [0, 1, 13, 15, 17]
+Accuracy: 0.9883, Relevance: 0.6239, Redundancy: 2.4371
+  Total reward: 1.3684, Per descriptor: 0.2737
+Step 5: Currently selected descriptors: [0, 1, 13, 15, 17]
+  Action chosen: REMOVE descriptor 1
+  New selection: [0, 13, 15, 17]
+  Calculating reward for descriptors: [0, 13, 15, 17]
+Accuracy: 0.9863, Relevance: 0.6302, Redundancy: 2.2639
+  Total reward: 1.3901, Per descriptor: 0.3475
+Step 6: Currently selected descriptors: [0, 13, 15, 17]
+  Action chosen: ADD descriptor 4
+  New selection: [0, 4, 13, 15, 17]
+  Calculating reward for descriptors: [0, 4, 13, 15, 17]
+Accuracy: 0.9859, Relevance: 0.6196, Redundancy: 2.4030
+  Total reward: 1.3652, Per descriptor: 0.2730
+Step 7: Currently selected descriptors: [0, 4, 13, 15, 17]
+  Action chosen: ADD descriptor 1
+  New selection: [0, 1, 4, 13, 15, 17]
+  Calculating reward for descriptors: [0, 1, 4, 13, 15, 17]
+Accuracy: 0.9876, Relevance: 0.6162, Redundancy: 2.5327
+  Total reward: 1.3505, Per descriptor: 0.2251
+Step 8: Currently selected descriptors: [0, 1, 4, 13, 15, 17]
+  Action chosen: ADD descriptor 10
+  New selection: [0, 1, 4, 10, 13, 15, 17]
+  Calculating reward for descriptors: [0, 1, 4, 10, 13, 15, 17]
+Accuracy: 0.9868, Relevance: 0.6139, Redundancy: 2.6183
+  Total reward: 1.3389, Per descriptor: 0.1913
+Step 9: Currently selected descriptors: [0, 1, 4, 10, 13, 15, 17]
+  Action chosen: ADD descriptor 8
+  New selection: [0, 1, 4, 8, 10, 13, 15, 17]
+  Calculating reward for descriptors: [0, 1, 4, 8, 10, 13, 15, 17]
+Accuracy: 0.9879, Relevance: 0.6055, Redundancy: 2.6713
+  Total reward: 1.3263, Per descriptor: 0.1658
+Step 10: Currently selected descriptors: [0, 1, 4, 8, 10, 13, 15, 17]
+  Action chosen: REMOVE descriptor 17
+  New selection: [0, 1, 4, 8, 10, 13, 15]
+  Calculating reward for descriptors: [0, 1, 4, 8, 10, 13, 15]
+Accuracy: 0.9885, Relevance: 0.6000, Redundancy: 2.6086
+  Total reward: 1.3276, Per descriptor: 0.1897
+Step 11: Currently selected descriptors: [0, 1, 4, 8, 10, 13, 15]
+  Action chosen: ADD descriptor 12
+  New selection: [0, 1, 4, 8, 10, 12, 13, 15]
+  Calculating reward for descriptors: [0, 1, 4, 8, 10, 12, 13, 15]
+Accuracy: 0.9873, Relevance: 0.6009, Redundancy: 2.6592
+  Total reward: 1.3223, Per descriptor: 0.1653
+Step 12: Currently selected descriptors: [0, 1, 4, 8, 10, 12, 13, 15]
+  Action chosen: ADD descriptor 17
+  New selection: [0, 1, 4, 8, 10, 12, 13, 15, 17]
+  Calculating reward for descriptors: [0, 1, 4, 8, 10, 12, 13, 15, 17]
+Accuracy: 0.9851, Relevance: 0.6057, Redundancy: 2.7054
+  Total reward: 1.3203, Per descriptor: 0.1467
+Step 13: Currently selected descriptors: [0, 1, 4, 8, 10, 12, 13, 15, 17]
+  Action chosen: ADD descriptor 9
+  New selection: [0, 1, 4, 8, 9, 10, 12, 13, 15, 17]
+  Calculating reward for descriptors: [0, 1, 4, 8, 9, 10, 12, 13, 15, 17]
+Accuracy: 0.9884, Relevance: 0.6059, Redundancy: 2.7545
+  Total reward: 1.3188, Per descriptor: 0.1319
+Step 14: Currently selected descriptors: [0, 1, 4, 8, 9, 10, 12, 13, 15, 17]
+  Action chosen: REMOVE descriptor 17
+  New selection: [0, 1, 4, 8, 9, 10, 12, 13, 15]
+  Calculating reward for descriptors: [0, 1, 4, 8, 9, 10, 12, 13, 15]
+Accuracy: 0.9874, Relevance: 0.6016, Redundancy: 2.7206
+  Total reward: 1.3170, Per descriptor: 0.1463
+Step 15: Currently selected descriptors: [0, 1, 4, 8, 9, 10, 12, 13, 15]
+  Action chosen: ADD descriptor 17
+  New selection: [0, 1, 4, 8, 9, 10, 12, 13, 15, 17]
+  Calculating reward for descriptors: [0, 1, 4, 8, 9, 10, 12, 13, 15, 17]
+Accuracy: 0.9884, Relevance: 0.6059, Redundancy: 2.7545
+  Total reward: 1.3188, Per descriptor: 0.1319
+Step 16: Currently selected descriptors: [0, 1, 4, 8, 9, 10, 12, 13, 15, 17]
+  Action chosen: REMOVE descriptor 1
+  New selection: [0, 4, 8, 9, 10, 12, 13, 15, 17]
+  Calculating reward for descriptors: [0, 4, 8, 9, 10, 12, 13, 15, 17]
+Accuracy: 0.9856, Relevance: 0.6066, Redundancy: 2.7187
+  Total reward: 1.3203, Per descriptor: 0.1467
+Step 17: Currently selected descriptors: [0, 4, 8, 9, 10, 12, 13, 15, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [0, 4, 8, 9, 10, 11, 12, 13, 15, 17]
+  Calculating reward for descriptors: [0, 4, 8, 9, 10, 11, 12, 13, 15, 17]
+Accuracy: 0.9865, Relevance: 0.6065, Redundancy: 2.7604
+  Total reward: 1.3169, Per descriptor: 0.1317
+Step 18: Currently selected descriptors: [0, 4, 8, 9, 10, 11, 12, 13, 15, 17]
+  Action chosen: REMOVE descriptor 4
+  New selection: [0, 8, 9, 10, 11, 12, 13, 15, 17]
+  Calculating reward for descriptors: [0, 8, 9, 10, 11, 12, 13, 15, 17]
+Accuracy: 0.9856, Relevance: 0.6097, Redundancy: 2.7497
+  Total reward: 1.3203, Per descriptor: 0.1467
+Step 19: Currently selected descriptors: [0, 8, 9, 10, 11, 12, 13, 15, 17]
+  Action chosen: REMOVE descriptor 8
+  New selection: [0, 9, 10, 11, 12, 13, 15, 17]
+  Calculating reward for descriptors: [0, 9, 10, 11, 12, 13, 15, 17]
+Accuracy: 0.9872, Relevance: 0.6174, Redundancy: 2.7148
+  Total reward: 1.3332, Per descriptor: 0.1666
+  Training DQN with 37 experiences...
+  DQN training loss: 3618139.250000
+  NEW BEST! Reward: 27.3255 with 8 descriptors
+Episode 3 Summary:
+  Total reward: 27.3255
+  Steps taken: 20
+  Final descriptors: 8
+  Epsilon: 0.550 (55.0% random, 45.0% DQN)
+  Avg last 10 episodes: 16.9237
+  Best so far: 27.3255 (8 descriptors)
+
+--- Episode 4/5 ---
+Episode 4 - Epsilon: 0.325 (32.5% random, 67.5% DQN)
+Starting with empty feature set...
+Initial state shape: (49,)
+Step 0: Currently selected descriptors: None
+  Action chosen: ADD descriptor 12
+  New selection: [12]
+  Calculating reward for descriptors: [12]
+Accuracy: 0.9019, Relevance: 0.6073, Redundancy: 0.0000
+  Total reward: 1.5092, Per descriptor: 1.5092
+Step 1: Currently selected descriptors: [12]
+  Action chosen: ADD descriptor 11
+  New selection: [11, 12]
+  Calculating reward for descriptors: [11, 12]
+Accuracy: 0.9787, Relevance: 0.6061, Redundancy: 1.9606
+  Total reward: 1.3887, Per descriptor: 0.6944
+Step 2: Currently selected descriptors: [11, 12]
+  Action chosen: ADD descriptor 13
+  New selection: [11, 12, 13]
+  Calculating reward for descriptors: [11, 12, 13]
+Accuracy: 0.9659, Relevance: 0.5978, Redundancy: 2.1898
+  Total reward: 1.3447, Per descriptor: 0.4482
+Step 3: Currently selected descriptors: [11, 12, 13]
+  Action chosen: ADD descriptor 0
+  New selection: [0, 11, 12, 13]
+  Calculating reward for descriptors: [0, 11, 12, 13]
+Accuracy: 0.9849, Relevance: 0.6195, Redundancy: 2.3471
+  Total reward: 1.3697, Per descriptor: 0.3424
+Step 4: Currently selected descriptors: [0, 11, 12, 13]
+  Action chosen: ADD descriptor 17
+  New selection: [0, 11, 12, 13, 17]
+  Calculating reward for descriptors: [0, 11, 12, 13, 17]
+Accuracy: 0.9855, Relevance: 0.6244, Redundancy: 2.4665
+  Total reward: 1.3633, Per descriptor: 0.2727
+Step 5: Currently selected descriptors: [0, 11, 12, 13, 17]
+  Action chosen: ADD descriptor 10
+  New selection: [0, 10, 11, 12, 13, 17]
+  Calculating reward for descriptors: [0, 10, 11, 12, 13, 17]
+Accuracy: 0.9870, Relevance: 0.6203, Redundancy: 2.5573
+  Total reward: 1.3516, Per descriptor: 0.2253
+Step 6: Currently selected descriptors: [0, 10, 11, 12, 13, 17]
+  Action chosen: ADD descriptor 9
+  New selection: [0, 9, 10, 11, 12, 13, 17]
+  Calculating reward for descriptors: [0, 9, 10, 11, 12, 13, 17]
+Accuracy: 0.9868, Relevance: 0.6184, Redundancy: 2.6425
+  Total reward: 1.3410, Per descriptor: 0.1916
+Step 7: Currently selected descriptors: [0, 9, 10, 11, 12, 13, 17]
+  Action chosen: ADD descriptor 1
+  New selection: [0, 1, 9, 10, 11, 12, 13, 17]
+  Calculating reward for descriptors: [0, 1, 9, 10, 11, 12, 13, 17]
+Accuracy: 0.9883, Relevance: 0.6160, Redundancy: 2.6930
+  Total reward: 1.3350, Per descriptor: 0.1669
+Step 8: Currently selected descriptors: [0, 1, 9, 10, 11, 12, 13, 17]
+  Action chosen: REMOVE descriptor 1
+  New selection: [0, 9, 10, 11, 12, 13, 17]
+  Calculating reward for descriptors: [0, 9, 10, 11, 12, 13, 17]
+Accuracy: 0.9868, Relevance: 0.6184, Redundancy: 2.6425
+  Total reward: 1.3410, Per descriptor: 0.1916
+Step 9: Currently selected descriptors: [0, 9, 10, 11, 12, 13, 17]
+  Action chosen: ADD descriptor 1
+  New selection: [0, 1, 9, 10, 11, 12, 13, 17]
+  Calculating reward for descriptors: [0, 1, 9, 10, 11, 12, 13, 17]
+Accuracy: 0.9883, Relevance: 0.6160, Redundancy: 2.6930
+  Total reward: 1.3350, Per descriptor: 0.1669
+Step 10: Currently selected descriptors: [0, 1, 9, 10, 11, 12, 13, 17]
+  Action chosen: ADD descriptor 2
+  New selection: [0, 1, 2, 9, 10, 11, 12, 13, 17]
+  Calculating reward for descriptors: [0, 1, 2, 9, 10, 11, 12, 13, 17]
+Accuracy: 0.9858, Relevance: 0.6182, Redundancy: 2.7460
+  Total reward: 1.3294, Per descriptor: 0.1477
+Step 11: Currently selected descriptors: [0, 1, 2, 9, 10, 11, 12, 13, 17]
+  Action chosen: ADD descriptor 16
+  New selection: [0, 1, 2, 9, 10, 11, 12, 13, 16, 17]
+  Calculating reward for descriptors: [0, 1, 2, 9, 10, 11, 12, 13, 16, 17]
+Accuracy: 0.9883, Relevance: 0.6209, Redundancy: 2.7730
+  Total reward: 1.3320, Per descriptor: 0.1332
+Step 12: Currently selected descriptors: [0, 1, 2, 9, 10, 11, 12, 13, 16, 17]
+  Action chosen: REMOVE descriptor 12
+  New selection: [0, 1, 2, 9, 10, 11, 13, 16, 17]
+  Calculating reward for descriptors: [0, 1, 2, 9, 10, 11, 13, 16, 17]
+Accuracy: 0.9879, Relevance: 0.6224, Redundancy: 2.7392
+  Total reward: 1.3364, Per descriptor: 0.1485
+Step 13: Currently selected descriptors: [0, 1, 2, 9, 10, 11, 13, 16, 17]
+  Action chosen: REMOVE descriptor 1
+  New selection: [0, 2, 9, 10, 11, 13, 16, 17]
+  Calculating reward for descriptors: [0, 2, 9, 10, 11, 13, 16, 17]
+Accuracy: 0.9857, Relevance: 0.6254, Redundancy: 2.6941
+  Total reward: 1.3417, Per descriptor: 0.1677
+Step 14: Currently selected descriptors: [0, 2, 9, 10, 11, 13, 16, 17]
+  Action chosen: ADD descriptor 1
+  New selection: [0, 1, 2, 9, 10, 11, 13, 16, 17]
+  Calculating reward for descriptors: [0, 1, 2, 9, 10, 11, 13, 16, 17]
+Accuracy: 0.9879, Relevance: 0.6224, Redundancy: 2.7392
+  Total reward: 1.3364, Per descriptor: 0.1485
+Step 15: Currently selected descriptors: [0, 1, 2, 9, 10, 11, 13, 16, 17]
+  Action chosen: REMOVE descriptor 17
+  New selection: [0, 1, 2, 9, 10, 11, 13, 16]
+  Calculating reward for descriptors: [0, 1, 2, 9, 10, 11, 13, 16]
+Accuracy: 0.9883, Relevance: 0.6197, Redundancy: 2.6895
+  Total reward: 1.3391, Per descriptor: 0.1674
+Step 16: Currently selected descriptors: [0, 1, 2, 9, 10, 11, 13, 16]
+  Action chosen: ADD descriptor 7
+  New selection: [0, 1, 2, 7, 9, 10, 11, 13, 16]
+  Calculating reward for descriptors: [0, 1, 2, 7, 9, 10, 11, 13, 16]
+Accuracy: 0.9883, Relevance: 0.6181, Redundancy: 2.7739
+  Total reward: 1.3290, Per descriptor: 0.1477
+Step 17: Currently selected descriptors: [0, 1, 2, 7, 9, 10, 11, 13, 16]
+  Action chosen: ADD descriptor 6
+  New selection: [0, 1, 2, 6, 7, 9, 10, 11, 13, 16]
+  Calculating reward for descriptors: [0, 1, 2, 6, 7, 9, 10, 11, 13, 16]
+Accuracy: 0.9864, Relevance: 0.6176, Redundancy: 2.7964
+  Total reward: 1.3244, Per descriptor: 0.1324
+Step 18: Currently selected descriptors: [0, 1, 2, 6, 7, 9, 10, 11, 13, 16]
+  Action chosen: ADD descriptor 17
+  New selection: [0, 1, 2, 6, 7, 9, 10, 11, 13, 16, 17]
+  Calculating reward for descriptors: [0, 1, 2, 6, 7, 9, 10, 11, 13, 16, 17]
+Accuracy: 0.9858, Relevance: 0.6200, Redundancy: 2.8219
+  Total reward: 1.3237, Per descriptor: 0.1203
+Step 19: Currently selected descriptors: [0, 1, 2, 6, 7, 9, 10, 11, 13, 16, 17]
+  Action chosen: REMOVE descriptor 1
+  New selection: [0, 2, 6, 7, 9, 10, 11, 13, 16, 17]
+  Calculating reward for descriptors: [0, 2, 6, 7, 9, 10, 11, 13, 16, 17]
+Accuracy: 0.9855, Relevance: 0.6222, Redundancy: 2.7969
+  Total reward: 1.3280, Per descriptor: 0.1328
+  Training DQN with 57 experiences...
+  DQN training loss: 3164256.000000
+Episode 4 Summary:
+  Total reward: 26.9992
+  Steps taken: 20
+  Final descriptors: 10
+  Epsilon: 0.325 (32.5% random, 67.5% DQN)
+  Avg last 10 episodes: 19.4426
+  Best so far: 27.3255 (8 descriptors)
+
+--- Episode 5/5 ---
+Episode 5 - Epsilon: 0.100 (10.0% random, 90.0% DQN)
+Starting with empty feature set...
+Initial state shape: (49,)
+Step 0: Currently selected descriptors: None
+  Action chosen: ADD descriptor 9
+  New selection: [9]
+  Calculating reward for descriptors: [9]
+Accuracy: 0.5956, Relevance: 0.6070, Redundancy: 0.0000
+  Total reward: 1.2025, Per descriptor: 1.2025
+Step 1: Currently selected descriptors: [9]
+  Action chosen: ADD descriptor 17
+  New selection: [9, 17]
+  Calculating reward for descriptors: [9, 17]
+Accuracy: 0.9388, Relevance: 0.6256, Redundancy: 1.5324
+  Total reward: 1.4111, Per descriptor: 0.7055
+Step 2: Currently selected descriptors: [9, 17]
+  Action chosen: ADD descriptor 1
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 3: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+Step 4: Currently selected descriptors: [1, 9, 11, 17]
+  Action chosen: REMOVE descriptor 11
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 5: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+Step 6: Currently selected descriptors: [1, 9, 11, 17]
+  Action chosen: REMOVE descriptor 11
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 7: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+Step 8: Currently selected descriptors: [1, 9, 11, 17]
+  Action chosen: REMOVE descriptor 11
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 9: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+Step 10: Currently selected descriptors: [1, 9, 11, 17]
+  Action chosen: REMOVE descriptor 11
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 11: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+Step 12: Currently selected descriptors: [1, 9, 11, 17]
+  Action chosen: REMOVE descriptor 11
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 13: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+Step 14: Currently selected descriptors: [1, 9, 11, 17]
+  Action chosen: REMOVE descriptor 11
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 15: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+Step 16: Currently selected descriptors: [1, 9, 11, 17]
+  Action chosen: REMOVE descriptor 11
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 17: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+Step 18: Currently selected descriptors: [1, 9, 11, 17]
+  Action chosen: REMOVE descriptor 11
+  New selection: [1, 9, 17]
+  Calculating reward for descriptors: [1, 9, 17]
+Accuracy: 0.9471, Relevance: 0.6165, Redundancy: 2.0706
+  Total reward: 1.3566, Per descriptor: 0.4522
+Step 19: Currently selected descriptors: [1, 9, 17]
+  Action chosen: ADD descriptor 11
+  New selection: [1, 9, 11, 17]
+  Calculating reward for descriptors: [1, 9, 11, 17]
+Accuracy: 0.9729, Relevance: 0.6137, Redundancy: 2.2545
+  Total reward: 1.3611, Per descriptor: 0.3403
+  Training DQN with 77 experiences...
+  DQN training loss: 1104145.250000
+Episode 5 Summary:
+  Total reward: 27.0723
+  Steps taken: 20
+  Final descriptors: 4
+  Epsilon: 0.100 (10.0% random, 90.0% DQN)
+  Avg last 10 episodes: 20.9685
+  Best so far: 27.3255 (8 descriptors)
+
+Training completed!
+Best descriptors found: [0, 9, 10, 11, 12, 13, 15, 17]
+Number of best descriptors: 8
+Final validation accuracy: 0.9868
+Selected descriptor indices: [0, 9, 10, 11, 12, 13, 15, 17]
+
+================================================================================
+DESCRIPTOR RANKING BY USAGE
+================================================================================
+Rank | Descriptor | Times Used | Total Reward
+-----------------------------------------------
+   1 | Desc18     |        56  |     15.9996
+   2 | Desc10     |        49  |     14.6926
+   3 | Desc 2     |        43  |     12.4740
+   4 | Desc 1     |        37  |      9.2112
+   5 | Desc12     |        34  |     10.3404
+   6 | Desc14     |        34  |      6.4316
+   7 | Desc11     |        27  |      4.2489
+   8 | Desc16     |        22  |      5.6125
+   9 | Desc13     |        21  |      5.8038
+  10 | Desc 5     |        18  |      3.7328
+  11 | Desc17     |        15  |      4.2691
+  12 | Desc 9     |        12  |      1.9852
+  13 | Desc 3     |        10  |      1.4462
+  14 | Desc 6     |        10  |      3.6681
+  15 | Desc20     |         6  |      3.5170
+  16 | Desc 8     |         5  |      0.7538
+  17 | Desc 7     |         3  |      0.3856
+  18 | Desc19     |         1  |      0.2703
+  19 | Desc 4     |         0  |      0.0000
+  20 | Desc15     |         0  |      0.0000
+
+Top Descriptors by Usage Frequency:
+Top 4 most used: ['Desc18', 'Desc10', 'Desc2', 'Desc1']
+Top 8 most used: ['Desc18', 'Desc10', 'Desc2', 'Desc1', 'Desc12', 'Desc14', 'Desc11', 'Desc16']
+Top 12 most used: ['Desc18', 'Desc10', 'Desc2', 'Desc1', 'Desc12', 'Desc14', 'Desc11', 'Desc16', 'Desc13', 'Desc5', 'Desc17', 'Desc9']
+
+Column graph saved to: result_rl_single_agent/descriptor_rewards_column_graph.png
+PDF version also saved: result_rl_single_agent/descriptor_rewards_column_graph.pdf

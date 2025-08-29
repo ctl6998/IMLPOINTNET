@@ -8,6 +8,8 @@ import numpy as np
 
 from utils import DataGenerator, analyze_dataset, analyze_full_dataset
 from models import PCEDNet
+from datetime import datetime
+
 
 
 def main(): 
@@ -16,10 +18,12 @@ def main():
     # val_path = "/home/cle/Work/ABC-Challenge/Validation"
 
     # IML Testing
+    save_path = "/home/cle/data/dtu_results_pc/IML_scan24"
     train_path = "/home/cle/data/dtu_results_pc/IML_scan24"
     val_path = "/home/cle/data/dtu_results_pc/IML_scan24"
     TARGET_SCALES = 16  # Max 16, must be power of 2 to match PCEDNet architecture
-    TARGET_FEATURES = 20  # Max 20
+    TARGET_FEATURES = 4  # Max 20
+    SCALE_SIZE = 15 # 8% // 15% (default) diagonal
     BATCHES = 512
     EPOCHS = 50
     FRACTION = 1 #0.1 (train only 10%) or 1 (train all)
@@ -92,7 +96,10 @@ def main():
     
 
     print("== Save model ==")
-    model.save(f"IML_pcednet_{TARGET_SCALES}s_{TARGET_FEATURES}f_{BATCHES}b_{EPOCHS}e.h5")
+    #model.save(f"{save_path}/IML_pcednet_{TARGET_SCALES}s_{TARGET_FEATURES}f_{BATCHES}b_{EPOCHS}e_lr01_size{SCALE_SIZE}.h5")
+
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    model.save(f"{save_path}/IML_pcednet_{TARGET_SCALES}s_{TARGET_FEATURES}f_{BATCHES}b_{EPOCHS}e_lr01_size{SCALE_SIZE}_{timestamp}.h5")
     
     print("Training completed!")
     print(f"Final training accuracy: {history.history['accuracy'][-1]:.4f}")

@@ -1,0 +1,75 @@
+Epoch = 50
+
+COMPLETE DESCRIPTOR RANKING BY TOTAL WEIGHT:
+--------------------------------------------------
+Rank  1: Descriptor 16 - Weight = 5.4703
+Rank  2: Descriptor 14 - Weight = 5.3520
+Rank  3: Descriptor 17 - Weight = 5.2891
+Rank  4: Descriptor 13 - Weight = 5.1764
+Rank  5: Descriptor  4 - Weight = 5.1158
+Rank  6: Descriptor 12 - Weight = 5.0905
+Rank  7: Descriptor  7 - Weight = 5.0894
+Rank  8: Descriptor  2 - Weight = 5.0563
+Rank  9: Descriptor  9 - Weight = 5.0460
+Rank 10: Descriptor  8 - Weight = 5.0329
+Rank 11: Descriptor 15 - Weight = 5.0285
+Rank 12: Descriptor  3 - Weight = 5.0140
+Rank 13: Descriptor 11 - Weight = 4.9808
+Rank 14: Descriptor  6 - Weight = 4.9695
+Rank 15: Descriptor 18 - Weight = 4.9575
+Rank 16: Descriptor  1 - Weight = 4.9161
+Rank 17: Descriptor  5 - Weight = 4.7790
+Rank 18: Descriptor 19 - Weight = 4.7717
+Rank 19: Descriptor 10 - Weight = 4.7358
+Rank 20: Descriptor 20 - Weight = 4.7052
+
+
+Epoch 100
+
+COMPLETE DESCRIPTOR RANKING BY TOTAL WEIGHT:
+--------------------------------------------------
+Rank  1: Descriptor 16 - Weight = 5.5076
+Rank  2: Descriptor 14 - Weight = 5.2602
+Rank  3: Descriptor 17 - Weight = 5.1872
+Rank  4: Descriptor 13 - Weight = 5.1859
+Rank  5: Descriptor 12 - Weight = 5.0824
+Rank  6: Descriptor 15 - Weight = 5.0802
+Rank  7: Descriptor  8 - Weight = 5.0764
+Rank  8: Descriptor  4 - Weight = 5.0713
+Rank  9: Descriptor  7 - Weight = 5.0616
+Rank 10: Descriptor  3 - Weight = 5.0562
+Rank 11: Descriptor  9 - Weight = 5.0380
+Rank 12: Descriptor  2 - Weight = 5.0364
+Rank 13: Descriptor 11 - Weight = 5.0316
+Rank 14: Descriptor  6 - Weight = 5.0085
+Rank 15: Descriptor  1 - Weight = 4.9927
+Rank 16: Descriptor 18 - Weight = 4.9573
+Rank 17: Descriptor  5 - Weight = 4.7407
+Rank 18: Descriptor 19 - Weight = 4.7337
+Rank 19: Descriptor 20 - Weight = 4.7126
+Rank 20: Descriptor 10 - Weight = 4.6963
+
+Epoch 200
+
+COMPLETE DESCRIPTOR RANKING BY TOTAL WEIGHT:
+--------------------------------------------------
+Rank  1: Descriptor 14 - Weight = 5.4993
+Rank  2: Descriptor 16 - Weight = 5.4989
+Rank  3: Descriptor 17 - Weight = 5.2033
+Rank  4: Descriptor 15 - Weight = 5.1344
+Rank  5: Descriptor 13 - Weight = 5.1272
+Rank  6: Descriptor  2 - Weight = 5.1079
+Rank  7: Descriptor  4 - Weight = 5.0701
+Rank  8: Descriptor  7 - Weight = 5.0572
+Rank  9: Descriptor  9 - Weight = 5.0556
+Rank 10: Descriptor  8 - Weight = 5.0516
+Rank 11: Descriptor 12 - Weight = 5.0327
+Rank 12: Descriptor  1 - Weight = 5.0170
+Rank 13: Descriptor  3 - Weight = 5.0089
+Rank 14: Descriptor  6 - Weight = 4.9751
+Rank 15: Descriptor 11 - Weight = 4.9641
+Rank 16: Descriptor 18 - Weight = 4.8180
+Rank 17: Descriptor 19 - Weight = 4.7675
+Rank 18: Descriptor 10 - Weight = 4.7186
+Rank 19: Descriptor  5 - Weight = 4.6934
+Rank 20: Descriptor 20 - Weight = 4.6135
